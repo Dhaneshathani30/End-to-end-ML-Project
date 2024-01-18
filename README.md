@@ -11,3 +11,18 @@
 7. update the pipeline
 8. update the main.py
 9. update the app.py
+
+
+How to run?
+
+STEPS:
+
+conda create -n mlproj python=3.8 -y 
+
+conda activate mlproj
+
+
+pip install -r requirements.txt
+python app.py
+
+Now open up your local host 0.0.0.0:8080
